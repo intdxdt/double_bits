@@ -1,5 +1,5 @@
 # double_bits
-Routines for manipulating binary representations of a IEEE 754 double precision numbers.
+Routines for manipulating binary representations of a IEEE 754 double (f64) precision numbers in Rust.
 
 
 ## Credits
